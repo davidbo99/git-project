@@ -2,7 +2,7 @@
 
 Esta guía te enseñará cómo crear una nueva rama que parte de la rama master del Proyecto c13-project-git, hacer 5 commits diferentes en esa rama cada uno con cambios diferentes, y hacerles push a Github. Además, explicará cómo hacer un merge desde master a la nueva rama y cómo solucionar conflictos en caso de que ocurran. Por último, explicará cómo hacer un PULL REQUEST en Github.
 
-NOTA: ESTE ARCHIVO README.md NO DEBE SER MODIFICADO
+NOTA: [EL PROYECTO A MODIFICAR SE ENCUENTRA HACIENDO CLICK AQUI](https://github.com/davidbo99/fast-api-git-example). ESTE PROYECTO DE GIT ACTUAL SOLAMENTE ES UNA GUIA
 
 ## Creación de una nueva rama y hacer cambios
 
