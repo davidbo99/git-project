@@ -12,7 +12,7 @@ NOTA: [EL PROYECTO A MODIFICAR SE ENCUENTRA HACIENDO CLICK AQUI](https://github.
 git checkout master
 ```
 
-2. Crea una nueva rama llamada "nueva-rama" y cambia a ella escribiendo el siguiente comando:
+2. Crea una nueva rama cuyo nombre sea su nombre y cambia a ella escribiendo el siguiente comando:
 
 ```bash
 git checkout -b nueva-rama
